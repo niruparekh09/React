@@ -99,3 +99,11 @@ This repository covers a comprehensive range of topics related to React, from it
     - Image and Font Optimization
     - Authentication with NextAuth
     - Modern React Hooks (useFormState and useOptimistic)
+
+### For Running any of above project
+1. Open the folder in terminal
+2. than run following commands:
+```
+   npm i
+   npm run dev
+```
