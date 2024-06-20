@@ -100,9 +100,9 @@ This repository covers a comprehensive range of topics related to React, from it
     - Authentication with NextAuth
     - Modern React Hooks (useFormState and useOptimistic)
 
-### For Running any of above project
+### For Running any of above the project
 1. Open the folder in terminal
-2. than run following commands:
+2. Then run following commands:
 ```
    npm i
    npm run dev
