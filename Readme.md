@@ -1,5 +1,4 @@
 # React Fundamentals and Advanced Topics
-================
 
 ### Overview
 This repository covers a comprehensive range of topics related to React, from its fundamentals to advanced concepts and best practices. It includes tutorials, examples, and explanations to help you master React and build robust, scalable applications.
