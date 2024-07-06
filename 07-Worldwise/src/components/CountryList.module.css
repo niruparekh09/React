@@ -4,9 +4,12 @@
   list-style: none;
   overflow-y: scroll;
   overflow-x: hidden;
-
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-content: start;
   gap: 1.6rem;
+}
+
+.countryList::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
 }
