@@ -37,28 +37,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T12:16:25.625Z",
+      "notes": "I wanna go there again",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "48.85740826031982",
+        "lng": "2.39369838358869"
       },
-      "id": 739303852
+      "id": 98443199
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-07-10T14:19:40.890Z",
+      "notes": "Du Du Du Du Max Verstappen\n",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "52.35541783547527",
+        "lng": "4.899288567472998"
       },
-      "id": 178067512
+      "id": 98443200
     }
   ]
 }
