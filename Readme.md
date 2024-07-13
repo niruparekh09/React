@@ -120,7 +120,7 @@ This repository covers a comprehensive range of topics related to React, from it
 1. Open the folder in terminal
 2. Then run following commands:
 
-```
+```bash
    npm i
    npm run dev
 ```
