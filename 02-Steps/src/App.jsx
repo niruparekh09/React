@@ -1,10 +1,10 @@
-import { useState } from "react";
+import { useState } from 'react';
 
-function App() {
+export default function App() {
   const messages = [
-    "Learn React ⚛️",
-    "Apply for jobs 💼",
-    "Invest your new income 🤑",
+    'Learn React ⚛️',
+    'Apply for jobs 💼',
+    'Invest your new income 🤑',
   ];
 
   const [counter, setCounter] = useState(0);
@@ -29,22 +29,22 @@ function App() {
       {isOpen && (
         <div className="steps">
           <div className="numbers">
-            <div className={counter >= 0 ? "active" : ""}>1</div>
-            <div className={counter >= 1 ? "active" : ""}>2</div>
-            <div className={counter >= 2 ? "active" : ""}>3</div>
+            <div className={counter >= 0 ? 'active' : ''}>1</div>
+            <div className={counter >= 1 ? 'active' : ''}>2</div>
+            <div className={counter >= 2 ? 'active' : ''}>3</div>
           </div>
           <p className="message">
             Step {counter + 1}: {messages[counter]}
           </p>
           <div className="buttons">
             <button
-              style={{ backgroundColor: "#7950f2", color: "#fff" }}
+              style={{ backgroundColor: '#7950f2', color: '#fff' }}
               onClick={decrementCounter}
             >
               Previous
             </button>
             <button
-              style={{ backgroundColor: "#7950f2", color: "#fff" }}
+              style={{ backgroundColor: '#7950f2', color: '#fff' }}
               onClick={incrementCounter}
             >
               Next
@@ -55,5 +55,3 @@ function App() {
     </>
   );
 }
-
-export default App;
