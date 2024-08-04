@@ -1,6 +1,3 @@
-/* eslint-disable no-unused-vars */
-import { useEffect, useReducer } from "react";
-
 import Header from "./Header";
 import MainContent from "./MainContent";
 import Loader from "./Loader";
